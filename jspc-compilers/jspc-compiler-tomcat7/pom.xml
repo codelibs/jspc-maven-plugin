@@ -34,7 +34,7 @@
     <properties>
         <tomcatVersion>7.0.30</tomcatVersion>
         <ecjVersion>3.7.2</ecjVersion>
-        <antVersion>1.8.4</antVersion>
+        <antVersion>1.9.15</antVersion>
     </properties>
     
     <dependencies>
